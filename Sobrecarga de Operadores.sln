@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sobrecarga de Operadores", "Sobrecarga de Operadores\Sobrecarga de Operadores.csproj", "{F6A25AD8-2D76-48E2-9394-BD1E0ADEC599}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6A25AD8-2D76-48E2-9394-BD1E0ADEC599}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6A25AD8-2D76-48E2-9394-BD1E0ADEC599}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6A25AD8-2D76-48E2-9394-BD1E0ADEC599}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6A25AD8-2D76-48E2-9394-BD1E0ADEC599}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F711172C-0741-498C-AEBE-D78A5238C9A0}
+	EndGlobalSection
+EndGlobal
